@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "PowerShell(python --version)",
+      "Bash(Get-Content \"C:\\\\Users\\\\ttbin\\\\Downloads\\\\MERUVA\\\\meruva_lang.js\")",
+      "Bash(Select-Object -First 5)"
+    ]
+  }
+}
